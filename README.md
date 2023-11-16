@@ -3,7 +3,7 @@
 <h1 align="center">NWL E-Sports</h1>
 
 <p align="center">
- Projeto feito durante a semana de desenvolvimento da Rockseat. <br/>
+ Projeto feito durante a semana de desenvolvimento da Rockeseat. <br/>
 </p>
 
 <p align="center">
